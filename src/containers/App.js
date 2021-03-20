@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import classes from './App.css';
 import Persons from '../components/Persons/Persons';
 import Cockpit from '../components/Cockpit/Cockpit';
 
@@ -50,7 +50,7 @@ class App extends Component {
 					changed={this.nameChangedHandler}></Persons>;
 		}
 		return (
-				<div className="App">
+				<div className={classes.App}>
 					<Cockpit persons={this.state.persons} 
 					clicked={this.togglePersonHandler}
 					showPersons={this.state.showPersons}></Cockpit>
