@@ -19,3 +19,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/http--01-starting-setup/node_modules
+
+hw1/base-syntax--assignment-problem/node_modules
