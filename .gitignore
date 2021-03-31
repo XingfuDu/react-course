@@ -23,3 +23,4 @@ yarn-error.log*
 /http--01-starting-setup/node_modules
 
 hw1/base-syntax--assignment-problem/node_modules
+redux--01-start/node_modules
