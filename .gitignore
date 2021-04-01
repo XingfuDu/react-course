@@ -24,3 +24,4 @@ yarn-error.log*
 
 hw1/base-syntax--assignment-problem/node_modules
 redux--01-start/node_modules
+hw5/redux--assignment-2-problem/node_modules
